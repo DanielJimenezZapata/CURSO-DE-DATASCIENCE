@@ -132,5 +132,5 @@ arr_csv = np.genfromtxt('./Hurricanes.csv', delimiter = ',')
 np.savetxt('newfilex.csv', arr_csv, delimiter = ',')
 ```
 
-Explcia que hace este código
+Explica que hace este código
 
